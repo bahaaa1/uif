@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(7, 7, 242);
+
+
+
+}
+
+input{
+
+   background-color: rgb(7, 31, 184);
+   color: aliceblue;
+   border-radius: 10px;
+   border: 1px dotted rgb(245, 3, 3);
+}
+
+div{
+    text-align: center;
+    
+}
+
+
+
+
+#a7,#a8,#a9,#a4,#a5,#a6,#a1,#a2,#a3,#q,#w,#e,#r,#aa,#a,#a-,#C,#z,#x,#v{
+    
+    color: rgb(0, 0, 0);
+    background-color: rgb(3, 3, 245);
+    padding: 10px;
+    border-radius: 20px;
+    border: 3px solid rgb(0, 0, 255);
+    cursor: pointer;
+
+
+
+
+}
+
+#a7:hover,#a8:hover,#a9:hover,#a4:hover,#a5:hover,#a6:hover,#a1:hover,#a2:hover,#a3:hover,#q:hover,#w:hover,#e:hover,#r:hover,#aa:hover,#a:hover,#a-:hover,#C:hover,#z:hover,#x:hover,#v:hover{
+    color: black;
+}
+
+#a7:focus,#a8:focus,#a9:focus,#a4:focus,#a5:focus,#a6:focus,#a1:focus,#a2:focus,#a3:focus,#q:focus,#w:focus,#e:focus,#r:focus,#aa:focus,#a:focus,#a-:focus,#C:focus,#z:focus,#x:focus,#v:focus{
+
+    background-color: mintcream;
+}
